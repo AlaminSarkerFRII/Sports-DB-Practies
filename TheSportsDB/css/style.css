@@ -1,0 +1,17 @@
+#header-field{
+background-image:url("/TheSportsDB/Images/background.png");
+background-repeat:no-repeat;
+
+}
+
+#male{
+    display:none;
+}
+
+#female{
+    display:none;
+}
+
+#spinner{
+    display:none;
+}
